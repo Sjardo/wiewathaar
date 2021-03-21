@@ -6,7 +6,7 @@ De opmaak is extreem basis, ook om te zorgen dat jullie het sneller kunnen opmak
 
 ---
 
-Wat heb je nodig:
+# Wat heb je nodig:
  - ACF Pro
 
 Copy-past in Functions.php (of waar je je gutenburg blokken bouwd)
@@ -38,14 +38,14 @@ function wiewathaar_blocks() {
     }
 }
 ```
+# ACF-JSON
+kopieer de directory `acf-json` naar je theme directory, inclusief mijn bestand. Dan heb je direct de ACF fields. Hierdoor kan je er op termijn, mocht je willen, ook een plugin maken :)
 
-Tip: kopieer de directory `acf-json` naar je theme directory, inclusief mijn bestand. Dan heb je direct de ACF fields
 
-
-#JS
+# JS
 Hier ben ik geen held in, maar dit werkt prima en is redelijk flexibel :)
 
-#PHP
+# PHP
 Ik ga jou natuurlijk niet vertellen hoe je PHP moet schrijven. dat kun je 100x beter dan ik :D
 Er staan nu 3 loopjes in
 1 - Categorieen voor de tags
@@ -54,7 +54,7 @@ Er staan nu 3 loopjes in
 
 Je kunt dit natuurlijk slim samenvoegen als je genoeg tijd hebt of netjes opdelen :)
 
-#CSS
+# CSS
 Alles is geprefixed, met BEM opgemaakt. kan je veilig bewerken. Ongeveer alles wat overbodig is, is er uit gehaald!
 ![Screenshot 2021-03-21 at 15 48 52](https://user-images.githubusercontent.com/6122172/111909295-02e3b080-8a5d-11eb-8b99-0a30dc79e384.png)
 
