@@ -44,6 +44,8 @@ kopieer de directory `acf-json` naar je theme directory, inclusief mijn bestand.
 
 # JS
 Hier ben ik geen held in, maar dit werkt prima en is redelijk flexibel :)
+Masonry: https://masonry.desandro.com/
+Modal: https://www.w3schools.com/howto/howto_js_lightbox.asp
 
 # PHP
 Ik ga jou natuurlijk niet vertellen hoe je PHP moet schrijven. dat kun je 100x beter dan ik :D
