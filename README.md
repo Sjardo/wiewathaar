@@ -39,4 +39,22 @@ function wiewathaar_blocks() {
 }
 ```
 
-Copy-paste the CSS, 2 JS files and PHP file in the correct directory.
+Tip: kopieer de directory `acf-json` naar je theme directory, inclusief mijn bestand. Dan heb je direct de ACF fields
+
+
+#JS
+Hier ben ik geen held in, maar dit werkt prima en is redelijk flexibel :)
+
+#PHP
+Ik ga jou natuurlijk niet vertellen hoe je PHP moet schrijven. dat kun je 100x beter dan ik :D
+Er staan nu 3 loopjes in
+1 - Categorieen voor de tags
+2 - het grid voor Masonry layout
+3 - Voor de popup.
+
+Je kunt dit natuurlijk slim samenvoegen als je genoeg tijd hebt of netjes opdelen :)
+
+#CSS
+Alles is geprefixed, met BEM opgemaakt. kan je veilig bewerken. Ongeveer alles wat overbodig is, is er uit gehaald!
+![Screenshot 2021-03-21 at 15 48 52](https://user-images.githubusercontent.com/6122172/111909295-02e3b080-8a5d-11eb-8b99-0a30dc79e384.png)
+
